@@ -22,6 +22,23 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F8Y&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F8Y&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</p>
+
+---
+
+### 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F8Y&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub activity graph"/>
+</p>
+
+---
+
 ### 📫 Connect with me
 <p align="center">
   <a href="https://github.com/F8Y"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
