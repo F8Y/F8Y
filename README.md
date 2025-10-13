@@ -3,7 +3,7 @@
 # 👋 Hi there!  
 ### I'm a 4th-year Computer Science student  
 
-💻 Passionate about **frontend development**, clean design, and building user-friendly web applications.
+💻 The main focus is on frontend development
 
 ---
 
@@ -11,7 +11,7 @@
 | Frontend | Styling | Backend | Other |
 |-----------|----------|----------|--------|
 | HTML | CSS / SCSS / SASS | Python | TypeScript |
-| JavaScript | React / Next.js | — | Git / GitHub |
+| JavaScript | React / Next.js | FastAPI | Git / GitHub |
 
 ---
 
