@@ -1,14 +1,33 @@
-<div>
-  <h1 align="center">Hi there!</h1>
-  <h2>I'm 4th year student of computer science</h2>
-  <p>My development stack is:</p>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JS</li>
-    <li>React/Next</li>
-    <li>SAAS</li>
-    <li>TypeScript</li>
-    <li>Python</li>
-  </ul>
+<div align="center">
+  
+# 👋 Hi there!  
+### I'm a 4th-year Computer Science student  
+
+💻 Passionate about **frontend development**, clean design, and building user-friendly web applications.
+
+---
+
+### 🧠 My Tech Stack
+| Frontend | Styling | Backend | Other |
+|-----------|----------|----------|--------|
+| HTML | CSS / SCSS / SASS | Python | TypeScript |
+| JavaScript | React / Next.js | — | Git / GitHub |
+
+---
+
+### 🌱 Currently learning
+- Advanced **TypeScript patterns**  
+- **Next.js App Router** and backend integration  
+- **FastAPI** & microservices architecture  
+
+---
+
+### 📫 Connect with me
+<p align="center">
+  <a href="https://github.com/F8Y"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="batigoal277@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
 </div>
