@@ -19,7 +19,9 @@
 ### 🌱 Currently learning
 - Advanced **TypeScript patterns**  
 - **Next.js App Router** and backend integration  
-- **FastAPI** & microservices architecture  
+- **FastAPI** & microservices architecture
+- **Docker**
+- **Databases**
 
 ---
 
