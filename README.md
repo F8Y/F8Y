@@ -1,7 +1,8 @@
 <div align="center">
   
 # 👋 Hi there!  
-### I'm a 4th-year Computer Science student  
+### I'm a 4th-year Computer Science student
+### You can contact me with gmail in the end of profile!
 
 💻 The main focus is on frontend development
 
