@@ -1,27 +1,43 @@
 <div align="center">
   
 # 👋 Hi there!  
-### I'm a 4th-year Computer Science student
+### Digital Audit Specialist in banking
+### 4th-year Computer Science student
 ### You can contact me with gmail in the end of profile!
 
-💻 The main focus is on frontend development
+💻 I work with Python-based analytics, backend development, and applied AI systems.  
+My academic and pet projects are mostly built with TypeScript, React/Next.js, FastAPI, PostgreSQL, and Docker.
 
 ---
 
-### 🧠 My Tech Stack
-| Frontend | Styling | Backend | Other |
-|-----------|----------|----------|--------|
-| HTML | CSS / SCSS / SASS | Python | TypeScript |
-| JavaScript | React / Next.js | FastAPI | Git / GitHub |
+## 🧠 Tech Stack
+
+### Web Development
+
+| Frontend | Backend | Styling | Database |
+|----------|---------|---------|----------|
+| TypeScript | FastAPI | SCSS / SASS | PostgreSQL |
+| React | Python/Go | Tailwind CSS | SQL |
+| Next.js | REST API | CSS | |
 
 ---
 
-### 🌱 Currently learning
-- Advanced **TypeScript patterns**  
-- **Next.js App Router** and backend integration  
-- **FastAPI** & microservices architecture
-- **Docker**
-- **Databases**
+### AI Engineering
+
+| Agents | Retrieval | Inference | LLM Stack |
+|--------|-----------|-----------|-----------|
+| LangChain | FAISS | vLLM | Local LLMs |
+| LangGraph | RAG pipelines | Python backend | Qwen / GigaChat / DeepSeek / Kimi |
+
+---
+
+## 🚀 Current Focus
+
+- Building structured Python services instead of notebook-only workflows  
+- Designing AI agent systems with clear separation between logic, runtime, and evaluation  
+- Working with local LLMs, RAG pipelines, FAISS, LangChain, and LangGraph  
+- Improving reproducibility and maintainability of data and AI projects  
+- Moving deeper into backend, data, and AI engineering  
 
 ---
 
