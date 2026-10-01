@@ -1,69 +1,48 @@
-<div align="center">
-  
-# Hello everyone!
-### Imma an engineer in retail business digital audit department in banking.
-### My work is very different, but I can try lots of technologies and approaches.
-### And if you have enough time to check out my projects or give me an advice - you are welcome, my contacts are in the end of this `README`
+&lt;div align="center"&gt;
 
-My main languages are: **Python** and **TypeScript**, but now my current scope is **Go**
-I started with **C++** 5 years ago and **Go** makes me feel nostalgic.
+# Hey, I'm F8Y 👋
 
-### So my current scope is a symbiosis of **Go** and **Python**
+**Software engineer — digital audit in retail banking**
 
----
+I build AI agents that do auditors' boring work.
+Started with C++ 5 years ago — Go feels like coming home.
 
-Let me introduce my already tried technologies:
+`Go` · `Python` · `TypeScript`
 
-### AI (obviously it's a **Python**)
-- [x] LangChain
-- [x] Embeddings
-- [x] RAG (especially FAISS indexes)
-- [x] Harnesses (self-written light harnesses for tool-calling or memory for agent)
-- [x] Local engines: `Sglang`, `Vllm`, `llama.cpp`
+&lt;img src="https://skillicons.dev/icons?i=go,python,ts,rust,react,fastapi,nestjs,postgres,redis,docker&theme=dark" alt="stack"/&gt;
+
+&lt;/div&gt;
 
 ---
 
-### Web-dev
-- [x] TypeScript (main framework is `React`, but also tried `Next`, `Solid`, `Vue`)
-- [x] FastAPI
-- [x] Nest.js
-- [x] Flask
+### 🧠 Focus
+
+- **LLM tooling** — RAG (FAISS), tool-calling & memory harnesses, local inference: `vLLM` · `SGLang` · `llama.cpp`
+- **Backends** — Go, FastAPI, NestJS, Flask
+- **Frontend** — React (also Next, Vue, Solid)
 
 ---
 
-### Contiguous technologies
-- [x] Redis
-- [x] PostgreSQL
-- [x] Docker
-- [x] SSH
+### 🚀 Selected work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [hermes_dvb](https://github.com/F8Y/hermes_dvb) | AI agent for audit automation | Python |
+| [OARB_bot](https://github.com/F8Y/OARB_bot) | TG bot parsing Central Bank letters | Python |
+| [Anonymizer-api](https://github.com/F8Y/Anonymizer-api) | REST API for gov-site integration | PHP |
+| [Android-Todo-App](https://github.com/F8Y/Android-Todo-App) | To-do app with clean architecture | Kotlin |
+| [Accountant-buddy](https://github.com/F8Y/Accountant-buddy) | First AI-agent pet project | Rust |
 
 ---
 
-### 📊 GitHub Stats
+&lt;div align="center"&gt;
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F8Y&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F8Y&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-</p>
+&lt;img height="160em" src="https://github-readme-stats.vercel.app/api?username=F8Y&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/&gt;
+&lt;img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F8Y&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/&gt;
 
----
+### 📫 Say hi
 
-### 🧩 Contribution Graph
+&lt;a href="https://github.com/F8Y"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/&gt;&lt;/a&gt;
+&lt;a href="mailto:batigoal277@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/&gt;&lt;/a&gt;
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F8Y&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub activity graph"/>
-</p>
-
----
-
-### 📫 Connect with me
-<p align="center">
-  <a href="https://github.com/F8Y"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&batigoal277@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-</div>
+&lt;/div&gt;
