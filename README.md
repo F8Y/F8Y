@@ -1,43 +1,41 @@
 <div align="center">
   
-# 👋 Hi there!  
-### Digital Audit Specialist in banking
-### 4th-year Computer Science student
-### You can contact me with gmail in the end of profile!
+# Hello everyone!
+### Imma an engineer in retail business digital audit department in banking.
+### My work is very different, but I can try lots of technologies and approaches.
+### And if you have enough time to check out my projects or give me an advice - you are welcome, my contacts are in the end of this `README`
 
-💻 I work with Python-based analytics, backend development, and applied AI systems.  
-My academic and pet projects are mostly built with TypeScript, React/Next.js, FastAPI, PostgreSQL, and Docker.
+My main languages are: **Python** and **TypeScript**, but now my current scope is **Go**
+I started with **C++** 5 years ago and **Go** makes me feel nostalgic.
 
----
-
-## 🧠 Tech Stack
-
-### Web Development
-
-| Frontend | Backend | Styling | Database |
-|----------|---------|---------|----------|
-| TypeScript | FastAPI | SCSS / SASS | PostgreSQL |
-| React | Python/Go | Tailwind CSS | SQL |
-| Next.js | REST API | CSS | |
+### So my current scope is a symbiosis of **Go** and **Python**
 
 ---
 
-### AI Engineering
+Let me introduce my already tried technologies:
 
-| Agents | Retrieval | Inference | LLM Stack |
-|--------|-----------|-----------|-----------|
-| LangChain | FAISS | vLLM | Local LLMs |
-| LangGraph | RAG pipelines | Python backend | Qwen / GigaChat / DeepSeek / Kimi |
+### AI (obviously it's a **Python**)
+- [x] LangChain
+- [x] Embeddings
+- [x] RAG (especially FAISS indexes)
+- [x] Harnesses (self-written light harnesses for tool-calling or memory for agent)
+- [x] Local engines: `Sglang`, `Vllm`, `llama.cpp`
 
 ---
 
-## 🚀 Current Focus
+### Web-dev
+- [x] TypeScript (main framework is `React`, but also tried `Next`, `Solid`, `Vue`)
+- [x] FastAPI
+- [x] Nest.js
+- [x] Flask
 
-- Building structured Python services instead of notebook-only workflows  
-- Designing AI agent systems with clear separation between logic, runtime, and evaluation  
-- Working with local LLMs, RAG pipelines, FAISS, LangChain, and LangGraph  
-- Improving reproducibility and maintainability of data and AI projects  
-- Moving deeper into backend, data, and AI engineering  
+---
+
+### Contiguous technologies
+- [x] Redis
+- [x] PostgreSQL
+- [x] Docker
+- [x] SSH
 
 ---
 
