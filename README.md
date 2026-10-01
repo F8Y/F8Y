@@ -7,8 +7,6 @@ Started with C++ 5 years ago — Go feels like coming home.
 
 `Go` · `Python` · `TypeScript`
 
-&lt;img src="https://skillicons.dev/icons?i=go,python,ts,rust,react,fastapi,nestjs,postgres,redis,docker&theme=dark" alt="stack"/&gt;
-
 ---
 
 ### 🧠 Focus
@@ -31,14 +29,27 @@ Started with C++ 5 years ago — Go feels like coming home.
 
 ---
 
-&lt;div align="center"&gt;
+### 📊 GitHub Stats
 
-&lt;img height="160em" src="https://github-readme-stats.vercel.app/api?username=F8Y&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/&gt;
-&lt;img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F8Y&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/&gt;
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F8Y&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F8Y&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</p>
 
-### 📫 Say hi
+---
 
-&lt;a href="https://github.com/F8Y"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/&gt;&lt;/a&gt;
-&lt;a href="mailto:batigoal277@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/&gt;&lt;/a&gt;
+### 🧩 Contribution Graph
 
-&lt;/div&gt;
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F8Y&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub activity graph"/>
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="center">
+  <a href="https://github.com/F8Y"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&batigoal277@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
