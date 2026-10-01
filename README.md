@@ -1,5 +1,3 @@
-&lt;div align="center"&gt;
-
 # Hey, I'm F8Y 👋
 
 **Software engineer — digital audit in retail banking**
@@ -10,8 +8,6 @@ Started with C++ 5 years ago — Go feels like coming home.
 `Go` · `Python` · `TypeScript`
 
 &lt;img src="https://skillicons.dev/icons?i=go,python,ts,rust,react,fastapi,nestjs,postgres,redis,docker&theme=dark" alt="stack"/&gt;
-
-&lt;/div&gt;
 
 ---
 
